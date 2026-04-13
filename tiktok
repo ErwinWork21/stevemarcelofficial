@@ -1,0 +1,61 @@
+TikTok
+            <h3 class="reveal" style="text-align: center; margin-bottom: 2rem; color: var(--text-main);">TikTok</h3>
+            <div class="gallery-grid">
+                <!-- Gallery Item 2 -->
+                <div class="gallery-item reveal">
+                    <img src="assets/gallery_2.png" alt="Activity 2" id="gal-2">
+                    <!-- <div class="overlay">
+                        <i data-svg="tiktok">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5" />
+                            </svg>
+                        </i>
+                        <span>Watch on TikTok</span>
+                    </div> -->
+
+
+                </div>
+
+                <!-- Gallery Item 6 -->
+                <div class="gallery-item reveal">
+                    <img src="assets/gallery_2.png" alt="Activity 6" id="gal-6">
+                    <div class="overlay">
+                        <i data-svg="tiktok">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5" />
+                            </svg>
+                        </i>
+                        <span>Watch on TikTok</span>
+                    </div>
+                </div>
+
+                <!-- Gallery Item 7 -->
+                <div class="gallery-item reveal">
+                    <img src="assets/gallery_2.png" alt="Activity 7" id="gal-7">
+                    <div class="overlay">
+                        <i data-svg="tiktok">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5" />
+                            </svg>
+                        </i>
+                        <span>Watch on TikTok</span>
+                    </div>
+                </div>
+
+                <!-- Gallery Item 8 -->
+                <div class="gallery-item reveal">
+                    <img src="assets/gallery_2.png" alt="Activity 8" id="gal-8">
+                    <div class="overlay">
+                        <i data-svg="tiktok">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5" />
+                            </svg>
+                        </i>
+                        <span>Watch on TikTok</span>
+                    </div>
+                </div>
+            </div>
